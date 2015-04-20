@@ -18,3 +18,5 @@ To start a VNC SSH encrypted connection:
 ```shell
 ssh -L 5902:localhost:5901 x.x.x.x
 ```
+
+Connect to the VNC server over localhost:5902
