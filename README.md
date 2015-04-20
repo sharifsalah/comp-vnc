@@ -4,7 +4,7 @@ A collection of scripts and configuration files for setting up VNC capable insta
 To startup the VNC server:
 
 ```shell
-vnc4server :1 -depth 24 -geometry 1280x800
+vncserver :1 -depth 24 -geometry 1280x800
 ```
 
 To kill the VNC server:
